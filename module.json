@@ -1,0 +1,26 @@
+{
+  "id": "dishonored-trackers",
+  "title": "Dishonored Trackers",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Deyzeria",
+      "url": "https://github.com/Deyzeria",
+      "discord": "@Deyzeria",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "module.mjs"
+  ],
+  "styles": [
+    "styles.css"
+  ],
+  "manifest": "https://raw.githubusercontent.com/Deyzeria/dishonored-trackers/master/module.json",
+  "url": "https://github.com/Deyzeria/dishonored-trackers",
+  "download": "https://github.com/Deyzeria/dishonored-trackers/archive/refs/heads/main.zip"
+}
